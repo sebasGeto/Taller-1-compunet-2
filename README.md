@@ -1,3 +1,7 @@
+Juan Sebastian Romero Torres
+Samuel David Cifuentes Alvarez
+Juan Camilo Criollo Cifuentes
+
 # Artistas y Pistas
 
 ## Requisitos
