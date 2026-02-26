@@ -1,0 +1,7 @@
+# Requisitos del proyecto
+
+- JDK 17 o superior
+- Maven 3.6 o superior
+- Apache Tomcat 10.1.52 (o compatible con Servlets Jakarta)
+
+Las dependencias de Spring y otras librerías se gestionan mediante Maven en el `pom.xml`.
