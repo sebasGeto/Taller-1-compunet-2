@@ -1,5 +1,7 @@
 Juan Sebastian Romero Torres
+
 Samuel David Cifuentes Alvarez
+
 Juan Camilo Criollo Cifuentes
 
 # Artistas y Pistas
@@ -24,5 +26,4 @@ Las dependencias (Spring, Jakarta, etc.) se resuelven mediante Maven (`pom.xml`)
    - `http://localhost:8080/Artists/artistas` para gestionar artistas.
    - `http://localhost:8080/Artists/pistas` para gestionar pistas.
 
-   *(si despliegas con otro nombre de contexto sustituye `Artists` por el correspondiente).* 
 
